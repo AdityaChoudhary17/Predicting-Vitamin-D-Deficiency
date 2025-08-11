@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-=======
 # Predicting Vitamin ‘D’ Deficiency
->>>>>>> a0e0ba3e05930fffa447ef10085ce39d7f875963
+
 **🚀** **Project Title & Tagline**
 =====================================================
 
